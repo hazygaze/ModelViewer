@@ -1,0 +1,13 @@
+.vb-mainpanel {
+    -fx-background-color: linear-gradient(to right, #ffffff, #f5f5f5);
+}
+
+.ap-sections {
+    -fx-background-color: linear-gradient(to bottom, #f5f5f5, #ffffff);
+}
+
+.vb-modelinfo {
+    -fx-background-color: linear-gradient(to bottom, #ffffff, #f5f5f5);
+
+}
+
